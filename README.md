@@ -6,3 +6,6 @@ Time-Space-Frequency-Code Division Multiple Access will conduct easily.
 Channel sounding for channel measurement should be firstly conducted to form a physical model for both simulation and engineering analysis.
 A proper model is needed for this EM wave signal transmitting.
 Reconfigurable Intelligent Surface can be used for beamforming or providing a spatial diversity gain.
+Eavesdropping and THz communication security will still a big challenge.
+Modulation and channel coding should also be considered.
+Channel statistical characteristics and transmitting features should be rerecognized.
